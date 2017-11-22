@@ -7,4 +7,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 ## [Light Sun 314](http://www.eclipsecolorthemes.org/?view=theme&id=51219)
 ![Light Sun 314 Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Light-Sun-314.png)
 
+## [simple and clear](http://www.eclipsecolorthemes.org/?view=theme&id=1272)
+![simple and clear Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/simple-and-clear.png)
 
