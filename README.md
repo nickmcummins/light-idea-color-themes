@@ -16,3 +16,5 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 ## [simple and clear](http://www.eclipsecolorthemes.org/?view=theme&id=1272)
 ![simple and clear Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/simple-and-clear.png)
 
+## [visability](http://www.eclipsecolorthemes.org/?view=theme&id=51943)
+![visability Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/visability.png)
