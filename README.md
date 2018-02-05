@@ -18,3 +18,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [visability](http://www.eclipsecolorthemes.org/?view=theme&id=51943)
 ![visability Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/visability.png)
+
+## [AntiHacker White](http://www.eclipsecolorthemes.org/?view=theme&id=52382)
+![AntiHacker White Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/AntiHacker-White.png)
