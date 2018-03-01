@@ -21,3 +21,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [AntiHacker White](http://www.eclipsecolorthemes.org/?view=theme&id=52382)
 ![AntiHacker White Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/AntiHacker-White.png)
+
+## [Gucci Gang](http://www.eclipsecolorthemes.org/?view=theme&id=52646)
+![Gucci Gang Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Gucci-Gang.png)
