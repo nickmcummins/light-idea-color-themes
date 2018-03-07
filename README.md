@@ -24,3 +24,7 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [Gucci Gang](http://www.eclipsecolorthemes.org/?view=theme&id=52646)
 ![Gucci Gang Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Gucci-Gang.png)
+
+## [Clean-theme](http://www.eclipsecolorthemes.org/?view=theme&id=52811)
+![Clean-theme Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Clean-theme.png)
+
