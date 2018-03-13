@@ -28,3 +28,5 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 ## [Clean-theme](http://www.eclipsecolorthemes.org/?view=theme&id=52811)
 ![Clean-theme Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Clean-theme.png)
 
+## [GreenLeadGrasshopper](http://www.eclipsecolorthemes.org/?view=theme&id=52904)
+![GreenLeadGrasshopper Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/GreenLeadGrasshopper.png)
