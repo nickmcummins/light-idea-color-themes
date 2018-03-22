@@ -30,3 +30,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [GreenLeadGrasshopper](http://www.eclipsecolorthemes.org/?view=theme&id=52904)
 ![GreenLeadGrasshopper Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/GreenLeadGrasshopper.png)
+
+## [Candlyland2 Mod](http://www.eclipsecolorthemes.org/?view=theme&id=53024)
+![Candlyland2 Mod Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Candlyland2.png)
