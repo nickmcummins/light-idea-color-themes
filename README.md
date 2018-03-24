@@ -33,3 +33,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [Candlyland2 Mod](http://www.eclipsecolorthemes.org/?view=theme&id=53024)
 ![Candlyland2 Mod Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Candlyland2.png)
+
+## [Akai](http://www.eclipsecolorthemes.org/?view=theme&id=53046)
+![Akai Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Akai.png)
