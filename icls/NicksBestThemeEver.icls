@@ -1,17 +1,17 @@
 <scheme name="NicksBestThemeEver" version="142">
   <metaInfo>
-    <property name="created">2018-03-29T18:27:51</property>
+    <property name="created">2018-04-03T09:30:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2018-03-29T18:28:02</property>
+    <property name="modified">2018-04-03T09:31:09</property>
     <property name="originalScheme">NicksBestThemeEver</property>
   </metaInfo>
   <colors>
     <option name="ANNOTATIONS_COLOR" value="80" />
     <option name="CARET_COLOR" value="999999" />
     <option name="CARET_ROW_COLOR" value="eeeeee" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="faf8f6" />
-    <option name="GUTTER_BACKGROUND" value="faf8f6" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
+    <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="bd7cfb" />
     <option name="LINE_NUMBERS_COLOR" value="999999" />
     <option name="RIGHT_MARGIN_COLOR" value="999999" />
@@ -483,7 +483,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="8000ff" />
-        <option name="BACKGROUND" value="faf8f6" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
