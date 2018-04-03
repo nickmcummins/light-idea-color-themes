@@ -36,3 +36,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [Akai](http://www.eclipsecolorthemes.org/?view=theme&id=53046)
 ![Akai Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Akai.png)
+
+## [NicksBestThemeEver](http://www.eclipsecolorthemes.org/?view=theme&id=53117)
+![NicksBestThemeEver Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/NicksBestThemeEver.png)
