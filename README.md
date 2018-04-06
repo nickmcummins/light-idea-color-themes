@@ -42,3 +42,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [myJavaWorld light](http://www.eclipsecolorthemes.org/?view=theme&id=9930)
 ![myJavaWorld light Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/myJavaWorld-light.png)
+
+## [java5343](http://www.eclipsecolorthemes.org/?view=theme&id=7383)
+![java5343 Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/java5343.png)
