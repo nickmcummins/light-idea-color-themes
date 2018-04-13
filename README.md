@@ -46,5 +46,8 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 ## [java5343](http://www.eclipsecolorthemes.org/?view=theme&id=7383)
 ![java5343 Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/java5343.png)
 
-##[Android Blue](http://www.eclipsecolorthemes.org/?view=theme&id=8645)
+## [Android Blue](http://www.eclipsecolorthemes.org/?view=theme&id=8645)
 ![Android Blue Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Android-Blue.png)
+
+## [bright white zhang](http://www.eclipsecolorthemes.org/?view=theme&id=51411)
+![bright white zhang Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/bright-white-zhang.png)
