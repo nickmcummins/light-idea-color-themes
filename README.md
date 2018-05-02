@@ -60,3 +60,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [Light_color](http://www.eclipsecolorthemes.org/?view=theme&id=22257)
 ![Light_color Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Light_color.png)
+
+## [lightW](http://www.eclipsecolorthemes.org/?view=theme&id=3376)
+![lightW Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/lightW.png)
