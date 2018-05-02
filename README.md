@@ -54,3 +54,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [Nice Style](http://www.eclipsecolorthemes.org/?view=theme&id=29828)
 ![Nice Style Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Nice-Style.png)
+
+## [nice day](http://www.eclipsecolorthemes.org/?view=theme&id=2281)
+![nice day Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/nice-day.png)
