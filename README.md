@@ -51,3 +51,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [bright white zhang](http://www.eclipsecolorthemes.org/?view=theme&id=51411)
 ![bright white zhang Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/bright-white-zhang.png)
+
+## [Nice Style](http://www.eclipsecolorthemes.org/?view=theme&id=29828)
+![Nice Style Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Nice-Style.png)
