@@ -69,3 +69,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [Improved IDEA](http://www.eclipsecolorthemes.org/?view=theme&id=53700)
 ![Improved IDEA Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Improved-IDEA.png)
+
+## [sceyes](http://www.eclipsecolorthemes.org/?view=theme&id=53712)
+![sceyes Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/sceyes.png)
