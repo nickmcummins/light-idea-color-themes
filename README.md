@@ -72,3 +72,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [sceyes](http://www.eclipsecolorthemes.org/?view=theme&id=53712)
 ![sceyes Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/sceyes.png)
+
+## [A-Theme [Aki] White](http://www.eclipsecolorthemes.org/?view=theme&id=15619)
+![A-Theme [Aki] White Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/A-Theme-Aki-White.png)
