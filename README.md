@@ -66,3 +66,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [Frosticoo](http://www.eclipsecolorthemes.org/?view=theme&id=753)
 ![Frosticoo Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Frosticoo.png)
+
+## [Improved IDEA](http://www.eclipsecolorthemes.org/?view=theme&id=53700)
+![Improved IDEA Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Improved-IDEA.png)
