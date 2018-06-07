@@ -75,3 +75,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [A-Theme [Aki] White](http://www.eclipsecolorthemes.org/?view=theme&id=15619)
 ![A-Theme [Aki] White Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/A-Theme-Aki-White.png)
+
+## [Roboticket-Bright](http://www.eclipsecolorthemes.org/?view=theme&id=8231)
+![Roboticket-Bright Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Roboticket-Bright.png)
