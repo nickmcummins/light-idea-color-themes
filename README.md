@@ -81,3 +81,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [ECL-Bright](http://www.eclipsecolorthemes.org/?view=theme&id=12577)
 ![ECL-Bright Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/ECL-Bright.png)
+
+## [colorful by div](http://www.eclipsecolorthemes.org/?view=theme&id=54084)
+![colorful by div Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/colorful-by-div.png)
