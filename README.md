@@ -88,5 +88,5 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 ## [RecognEyes white background](http://www.eclipsecolorthemes.org/?view=theme&id=54254)
 ![RecognEyes white background Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/RecognEyes-white-background.png)
 
-##[Colorfultheme](http://www.eclipsecolorthemes.org/?view=theme&id=45636)
+## [Colorfultheme](http://www.eclipsecolorthemes.org/?view=theme&id=45636)
 ![Colorfultheme Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Colorfultheme.png)
