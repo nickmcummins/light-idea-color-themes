@@ -93,3 +93,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [EditedSolarized](http://www.eclipsecolorthemes.org/?view=theme&id=54116)
 ![EditedSolarized Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/EditedSolarized.png)
+
+## Material Theme - Lighter
+![Material Theme - Lighter Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Material-Theme-Lighter.png)
