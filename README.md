@@ -90,3 +90,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [Colorfultheme](http://www.eclipsecolorthemes.org/?view=theme&id=45636)
 ![Colorfultheme Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Colorfultheme.png)
+
+## [EditedSolarized](http://www.eclipsecolorthemes.org/?view=theme&id=54116)
+![EditedSolarized Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/EditedSolarized.png)
