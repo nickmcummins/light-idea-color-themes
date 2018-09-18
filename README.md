@@ -96,3 +96,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## Material Theme - Lighter
 ![Material Theme - Lighter Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Material-Theme-Lighter.png)
+
+## [asdu](http://www.eclipsecolorthemes.org/?view=theme&id=55085)
+![asdu Theme Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/asdu.png)
