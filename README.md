@@ -99,3 +99,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [asdu](http://www.eclipsecolorthemes.org/?view=theme&id=55085)
 ![asdu Theme Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/asdu.png)
+
+## [wohensuiyi](http://www.eclipsecolorthemes.org/?view=theme&id=55136)
+![wohensuiyi Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/wohensuiyi.png)
