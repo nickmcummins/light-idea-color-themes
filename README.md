@@ -102,3 +102,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [wohensuiyi](http://www.eclipsecolorthemes.org/?view=theme&id=55136)
 ![wohensuiyi Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/wohensuiyi.png)
+
+## [color test](http://www.eclipsecolorthemes.org/?view=theme&id=31252)
+![color test Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/color-test.png)
