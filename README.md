@@ -105,3 +105,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [color test](http://www.eclipsecolorthemes.org/?view=theme&id=31252)
 ![color test Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/color-test.png)
+
+## [BlueHippo](http://www.eclipsecolorthemes.org/?view=theme&id=1564)
+![BlueHippo Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/BlueHippo.png)
