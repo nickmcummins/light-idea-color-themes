@@ -114,3 +114,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [cleanX](http://www.eclipsecolorthemes.org/?view=theme&id=1693)
 ![cleanX Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/cleanX.png)
+
+## [github_new](http://www.eclipsecolorthemes.org/?view=theme&id=11462)
+![github_new Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/github_new.png)
