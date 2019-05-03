@@ -117,3 +117,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [github_new](http://www.eclipsecolorthemes.org/?view=theme&id=11462)
 ![github_new Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/github_new.png)
+
+## [Shrut](http://www.eclipsecolorthemes.org/?view=theme&id=57556)
+![Shrut Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Shrut.png)
