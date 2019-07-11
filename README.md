@@ -122,7 +122,7 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 ![Shrut Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Shrut.png)
 
 ## [BubbaSolarized Light](http://www.eclipsecolorthemes.org/?view=theme&id=8330)
-![BubbaSolarized Light Screenshot](http://www.eclipsecolorthemes.org/?view=theme&id=8330)
+![BubbaSolarized Light Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/BubbaSolarized-Light.png)
 
 ## [Colorful Text](http://www.eclipsecolorthemes.org/?view=theme&id=28609)
 ![Colorful Text Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Colorful-Text.png)
