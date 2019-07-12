@@ -129,3 +129,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [Sholight](http://www.eclipsecolorthemes.org/?view=theme&id=28247)
 ![Sholight Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Sholight.png)
+
+## [lightMono](http://www.eclipsecolorthemes.org/?view=theme&id=35300)
+![lightMono Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/lightMono.png)
