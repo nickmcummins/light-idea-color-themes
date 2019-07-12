@@ -126,3 +126,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [Colorful Text](http://www.eclipsecolorthemes.org/?view=theme&id=28609)
 ![Colorful Text Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Colorful-Text.png)
+
+## [Sholight](http://www.eclipsecolorthemes.org/?view=theme&id=28247)
+![Sholight Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Sholight.png)
