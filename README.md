@@ -135,3 +135,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [Roboticket pastel](http://www.eclipsecolorthemes.org/?view=theme&id=34556)
 ![Roboticket pastel Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Roboticket-pastel.png)
+
+## [soft colors](http://www.eclipsecolorthemes.org/?view=theme&id=57812)
+![soft colors Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/soft-colors.png)
