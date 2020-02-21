@@ -138,3 +138,6 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## [soft colors](http://www.eclipsecolorthemes.org/?view=theme&id=57812)
 ![soft colors Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/soft-colors.png)
+
+## Default Reformed
+![Default Reformed Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Default-Reformed.png)
