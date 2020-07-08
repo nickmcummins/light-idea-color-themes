@@ -148,3 +148,8 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 
 ## OB1
 ![OB1 Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/OB1.png)
+
+
+## Dark Against Light
+Download: [icls](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/icls/Dark-Against-Light.icls)
+![Dark Against Light Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Dark-Against-Light.png)
