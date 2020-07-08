@@ -155,3 +155,10 @@ A select collection of high-quality light color themes (.icls) for [JetBrains ID
 Download: [icls](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/icls/Dark-Against-Light.icls)
 
 ![Dark Against Light Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Dark-Against-Light.png)
+
+
+## Cute Lightify
+
+Download: [icls](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/icls/Cute-Lightify.icls)
+
+![Cute Lightify Screenshot](https://raw.githubusercontent.com/nickmcummins/light-idea-color-themes/master/screenshots/Cute-Lightify.png)
