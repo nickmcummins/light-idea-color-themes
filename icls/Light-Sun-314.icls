@@ -1,9 +1,9 @@
 <scheme name="Light Sun 314" version="142">
   <metaInfo>
-    <property name="created">2017-11-21T15:42:23</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-11-21T15:42:33</property>
+    <property name="created">2020-07-09T20:16:10</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2020.2.0.0</property>
+    <property name="modified">2020-07-09T20:16:30</property>
     <property name="originalScheme">Light Sun 314</property>
   </metaInfo>
   <colors>
@@ -477,6 +477,39 @@
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="c0d0f0" />
+      </value>
+    </option>
+    <option name="OC.ENUM_CONST">
+      <value>
+        <option name="FOREGROUND" value="53dccd" />
+      </value>
+    </option>
+    <option name="OC.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="6aa7ba" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_FIELD">
+      <value>
+        <option name="FOREGROUND" value="9ebf7e" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="c170a5" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.TEMPLATE_TYPE">
+      <value>
+        <option name="FOREGROUND" value="d07fcd" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="6389a8" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
