@@ -1574,7 +1574,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightVariableFormatDefinition">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFAAAAFF" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="data.tools.diff.remove.line">
@@ -1938,11 +1938,11 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedDefinition">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFAAAAFF" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedWrittenReference">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFAAAAFF" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="RoslynConflictTag">
@@ -2202,7 +2202,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedReference">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFAAAAFF" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="XML Doc Comment">
@@ -2218,7 +2218,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/BreakpointInScrollBar">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="PeekFormatDefinition/EOIMark">
@@ -2327,13 +2327,13 @@
         <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="CheckBoxBackground">
-        <Background Type="CT_RAW" Source="FF79CB60" />
+        <Background Type="CT_RAW" Source="00F7F8FA" />
       </Color>
       <Color Name="CheckBoxBackgroundHover">
         <Background Type="CT_RAW" Source="00F7F8FA" />
       </Color>
       <Color Name="CheckBoxBackgroundPressed">
-        <Background Type="CT_RAW" Source="FF79CB60" />
+        <Background Type="CT_RAW" Source="0079CB60" />
       </Color>
       <Color Name="CheckBoxBackgroundDisabled">
         <Background Type="CT_RAW" Source="FF909396" />
@@ -2357,19 +2357,19 @@
         <Background Type="CT_RAW" Source="FF909295" />
       </Color>
       <Color Name="CheckBoxGlyph">
-        <Background Type="CT_RAW" Source="FFF7F8FA" />
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="CheckBoxGlyphHover">
-        <Background Type="CT_RAW" Source="001E1E1E" />
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="CheckBoxGlyphPressed">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="CheckBoxGlyphDisabled">
         <Background Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="CheckBoxGlyphFocused">
-        <Background Type="CT_RAW" Source="0079CB60" />
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="ComboBoxBackground">
         <Background Type="CT_RAW" Source="FFF7F8FA" />
@@ -7311,7 +7311,7 @@
         <Background Type="CT_RAW" Source="FF8B959C" />
       </Color>
       <Color Name="MouseOverDropDownButton">
-        <Background Type="CT_RAW" Source="FFC9DEF5" />
+        <Background Type="CT_RAW" Source="00C9DEF5" />
       </Color>
       <Color Name="MouseOverDropDownButtonGlyph">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -7453,7 +7453,7 @@
         <Background Type="CT_RAW" Source="FF007ACC" />
       </Color>
       <Color Name="FocusedDropDownButton">
-        <Background Type="CT_RAW" Source="FFC9DEF5" />
+        <Background Type="CT_RAW" Source="00C9DEF5" />
       </Color>
       <Color Name="FocusedDropDownButtonBorder">
         <Background Type="CT_RAW" Source="FF007ACC" />
@@ -7818,7 +7818,7 @@
         <Background Type="CT_RAW" Source="00F7F8FA" />
       </Color>
       <Color Name="CheckBoxBackgroundPressed">
-        <Background Type="CT_RAW" Source="FF79CB60" />
+        <Background Type="CT_RAW" Source="0079CB60" />
       </Color>
       <Color Name="CheckBoxBackgroundDisabled">
         <Background Type="CT_RAW" Source="FFF6F6F6" />
@@ -7848,13 +7848,13 @@
         <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="CheckBoxGlyphPressed">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="CheckBoxGlyphDisabled">
-        <Background Type="CT_RAW" Source="FFA2A4A5" />
+        <Background Type="CT_RAW" Source="001E1E1E" />
       </Color>
       <Color Name="CheckBoxGlyphFocused">
-        <Background Type="CT_RAW" Source="0079CB60" />
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="ComboBoxBackground">
         <Background Type="CT_RAW" Source="FFF7F8FA" />
@@ -8633,11 +8633,11 @@
       </Color>
       <Color Name="Breakpoint - Advanced (Disabled)">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Breakpoint - Advanced (Enabled)">
         <Background Type="CT_RAW" Source="FFFAEAE6" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Tracepoint (Error)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8664,8 +8664,8 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Advanced (Warning)">
-        <Background Type="CT_RAW" Source="FFAB616B" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Snappoint (Error)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8680,8 +8680,8 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Mapped (Warning)">
-        <Background Type="CT_RAW" Source="FFAB616B" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Logpoint - Advanced (Warning)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8689,15 +8689,15 @@
       </Color>
       <Color Name="Breakpoint - Mapped (Disabled)">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Breakpoint - Mapped (Error)">
-        <Background Type="CT_RAW" Source="FFAB616B" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Breakpoint - Advanced (Error)">
-        <Background Type="CT_RAW" Source="FFAB616B" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Logpoint (Dashed)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8729,7 +8729,7 @@
       </Color>
       <Color Name="Breakpoint (Disabled)">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Logpoint (Alert)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8744,16 +8744,16 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint (Error)">
-        <Background Type="CT_RAW" Source="FFAB616B" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Tracepoint - Advanced (Error)">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint (Warning)">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Snappoint - Advanced (Enabled)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8788,8 +8788,8 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint (Enabled)">
-        <Background Type="CT_RAW" Source="FFAB616B" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Snappoint (Checked)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8836,8 +8836,8 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Mapped (Enabled)">
-        <Background Type="CT_RAW" Source="FFAB616B" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Tracepoint (Warning)">
         <Background Type="CT_INVALID" Source="00000000" />
