@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.223
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubIDE-ColorfulWhite-VSTheme", "GitHubIDE-ColorfulWhite-VSTheme.csproj", "{D5970C21-A9C9-4AA1-A3DC-4A462952E27B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5970C21-A9C9-4AA1-A3DC-4A462952E27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5970C21-A9C9-4AA1-A3DC-4A462952E27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5970C21-A9C9-4AA1-A3DC-4A462952E27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5970C21-A9C9-4AA1-A3DC-4A462952E27B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E52FAD1D-DC9A-4AEC-8B32-EFCF78B723B7}
+	EndGlobalSection
+EndGlobal
